@@ -2,4 +2,6 @@
 
 run `python install -r requirements.txt`
 
-![My Python CV](https://user-images.githubusercontent.com/29494723/177060900-3112205b-0e97-418d-a54b-48837bfbc59b.PNG)
+
+
+![Python CV](https://user-images.githubusercontent.com/29494723/177061091-e615b23b-4b50-4695-b652-2dfc070cd988.PNG)
